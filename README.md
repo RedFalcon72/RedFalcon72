@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+# 🌐 Socials
+https://x.com/RFalcon7254127
 <!--
 **RedFalcon72/RedFalcon72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
