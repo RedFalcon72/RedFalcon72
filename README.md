@@ -11,10 +11,11 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RedFalcon72&theme=tokyonight&utcOffset=9)
 
 ## Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=RedFalcon72&theme=tokyonight)](https://github.com/RedFalcon72)
-
-
-
+<div align="center">
+  <a href="https://github.com/RedFalcon72">
+    <img src="https://github-profile-trophy.vercel.app/?username=RedFalcon72&theme=flat&column=3&margin-w=15&margin-h=15&no-bg=true" alt="RedFalcon72's Trophies" />
+  </a>
+</div>
 <!--
 **RedFalcon72/RedFalcon72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
