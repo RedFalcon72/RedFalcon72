@@ -1,5 +1,5 @@
 ## 🚀 Hi there, I'm RedFalcon72 👋
-
+![Profile views](https://komarev.com/ghpvc/?username=RedFalcon72&color=blueviolet)
 ## 🌐 Socials
 [X](https://x.com/RFalcon7254127)
 
